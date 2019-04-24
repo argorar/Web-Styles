@@ -558,6 +558,11 @@ code {
     border: none !important;
 }
 
+/*Title*/
+.title-3qD0b-  {
+    background-color: var(--main-black-color) !important;
+}
+
 .theme-dark .messagesWrapper-3lZDfY .scroller-wrap ::-webkit-scrollbar-thumb {
     background-color: var(--alt-darkgray-color) !important;
     border: none !important;
