@@ -1,6 +1,6 @@
 @-moz-document url-prefix("https://discordapp.com/") {
 /*
- version 1.0	
+ version 1.0.1	
 */
 :root {
     --main-black-color: rgb(28, 28, 28);
@@ -557,9 +557,28 @@ code {
     background-color: var(--second-black-color) !important;
     border: none !important;
 }
+.scroller-2FKFPG {
+    background-color: var(--main-black-color) !important;
+}
+.pad-29zQak {
+    background-color: var(--main-black-color) !important;
+}
 
 /*Title*/
 .title-3qD0b-  {
+    background-color: var(--main-black-color) !important;
+}
+
+/*Home*/
+.container-1r6BKw {
+    background-color: var(--main-black-color) !important;
+}
+.searchBar-6Kv8R2 {
+    background-color: var(--main-black-color) !important;
+}
+
+/*Friends*/
+.friendTableAddWrapper-nHHZtK {
     background-color: var(--main-black-color) !important;
 }
 
